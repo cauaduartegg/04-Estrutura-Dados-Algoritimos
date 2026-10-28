@@ -1,0 +1,3 @@
+Revisão da parte inicial antes do processo envolvendo <T>, ou seja, get, set e etc, compreender
+a base e após, revisão completa referente a estrutura envolvendo <T>. Entender referente a posição dos Nós e como manipular.
+Compreender a parte referente ao codigo 5 que introduz o NoDuplo. 

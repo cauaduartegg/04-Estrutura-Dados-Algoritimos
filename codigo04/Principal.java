@@ -9,6 +9,8 @@ public class Principal{
         fila.enfileirar(1);
         fila.imprimeFila();
 
+
+        // QUESTAO DE PROVA CARALHO
         Integer total = 1;
         for (int i = 0; i < 4; i++){
             total *= fila.desenfileirar();
